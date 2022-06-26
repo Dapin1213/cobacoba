@@ -4,7 +4,7 @@ public class MessageBuilder {
         return "GG Gaming Adik-Adik";
     }
 
-    public static int getNumber(){
+    public static int getNumber8(){
         return 8;
     }
 
